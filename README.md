@@ -14,7 +14,7 @@ https://mininet.org/
 
 
 
-直接看mininet和ryu部分（建议先看ryu部分）
+视频直接看mininet和ryu部分（建议先看ryu部分）
 
 【SDN系列学习课程-OpenFlow-Ryu-Mininet】 https://www.bilibili.com/video/BV1ft4y1a7ip/?p=12&share_source=copy_web&vd_source=00de136a1bd6eae86f7ccd0c05e6332d
 
